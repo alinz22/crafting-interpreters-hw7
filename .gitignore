@@ -1,0 +1,5 @@
+*.o
+clox
+clox_poppush
+*.docx
+make_doc.py
